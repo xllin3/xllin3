@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋 I'm Kelly Lin, a PhD candidate at the Centre for Brain, Minds and Markets, University of Melbourne.
+
+I study effort and risky decision-making in complex problem-solving, using behavioural experiments and simulation modelling.
+
+Find me at:
+- 📧 [lin.x1@unimelb.edu.au](mailto:lin.x1@unimelb.edu.au)
+- 📫 [LinkedIn](https://www.linkedin.com/in/kellyxilin/)
 
 <!--
 **xllin3/xllin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
